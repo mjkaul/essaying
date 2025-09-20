@@ -1,8 +1,6 @@
 ---
-title: Essaying
+title: Welcome.
 ---
-
-Welcome. 
 
 Essays have existed, in some form or another, across languages and cultures, for pretty much as long as humans have written. The word is from French—to *essay* is to attempt, to try. Essays are pursuits. What is pursued? Understanding—of oneself and the world.
 
